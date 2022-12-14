@@ -1,0 +1,22 @@
+id: A744A94C3
+title: Toh_150-The_Inquiry_of_Avalokitesvara_on_the_Seven_Qualities-v1
+type: translation
+pechas:
+- IED8488EB
+- I13342692
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-07-18T06:08:11.291Z'
+  creationid: dirk
+  eft-text-id: UT22084-057-009
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_150-The_Inquiry_of_Avalokitesvara_on_the_Seven_Qualities-v1
+alignment_to_base:
+  IED8488EB/3B65: '5431'
+  I13342692/162C: '5431'
